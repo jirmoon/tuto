@@ -1,4 +1,4 @@
-[Vesta Control Panel](http://vestacp.com/)
+Vesta Panel
 ==================================================
 
 [![Join the chat at https://gitter.im/vesta-cp/Lobby](https://badges.gitter.im/vesta-cp/Lobby.svg)](https://gitter.im/vesta-cp/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -36,7 +36,4 @@ Then run it:
 bash vst-install.sh
 ```
 
-License
-----------------------------
-Vesta is licensed under  [GPL v3 ](https://github.com/serghey-rodin/vesta/blob/master/LICENSE) license
-
+## Thank You
